@@ -1,0 +1,345 @@
+body {
+    direction: rtl;
+    text-align: right;
+}
+.navbar-nav.ml-auto {
+    margin-right: auto;
+    margin-left: 20px; !important;
+}
+.lovells-nav-style-one nav .navbar-nav .nav-item.contact-number {
+    margin-left: unset;
+    margin-right: 70px !important;
+}
+.navbar-brand {
+    margin-left: 1rem;
+    margin-right: unset;
+}
+.contact-number .nav-link {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.lovells-nav-style-one nav .navbar-nav .nav-item.contact-number {
+    margin-right: 35px !important;
+}
+.dropdown-toggle::after {
+    margin-right: .255em;
+    margin-left: unset;
+}
+.lovells-nav-style-one nav .navbar-nav .nav-item .dropdown-menu {
+    right: 0;
+    left: unset;
+}
+.lovells-nav-style-one nav .navbar-nav .nav-item .dropdown-menu li a{
+    text-align: right;
+}
+.single-box::after {
+    right: auto;
+    left: 0;
+}
+.about-area .about-content-wrap ul li {
+    padding-right: 40px;
+    padding-left: unset;
+}
+.about-area .about-content-wrap ul li i {
+    right: 0;
+    left: unset;
+}
+.about-area .about-img .about-shape {
+    right: -30px;
+    left: auto;
+}
+.about-area .about-content-wrap {
+    margin-left: 50px;
+    margin-right: 0;
+}
+.single-practice {
+    padding-right: 95px !important;
+    padding-left: unset;
+}
+.single-practice i {
+    right: 0;
+    left: unset;
+}
+.practice-area .right-shape {
+    left: 0;
+    right: unset;
+}
+.counter-grid::after {
+    left: 0;
+    right: auto;
+}
+.counter-grid i {
+    left: 0;
+    right: unset;
+}
+.single-blog .blig-content::after {
+    left: 0;
+    right: auto;
+}
+.subscribe-area .col-md-6.offset-md-3 {
+    margin-right: auto;
+    margin-left: auto;
+}
+.subscribe form .search-submit {
+    left: 0;
+    right: unset;
+}
+.subscribe-area .subscribe-bg .shape-3 {
+    left: 0;
+    right: unset;
+}
+.subscribe-area .subscribe-bg .shape-4 {
+    right: 0;
+    left: unset;
+}
+.single-widget ul li a:hover::before {
+    left: auto;
+    right: 0;
+}
+.single-widget ul li a::before {
+    left: 0;
+    right: unset;
+}
+.go-top {
+    left: 15px;
+    right: unset;
+}
+.footer-bottom .terms-conditions {
+    float: left;
+}
+.single-widget.single-widgetss {
+    margin-right: 60px;
+    margin-left: unset;
+}
+.single-widget.single-widgets {
+    margin-right: 40px;
+    margin-left: unset;
+}
+.about-area .about-img .success-rate {
+    right: -160px;
+    left: unset;
+}
+.single-work i{
+    right: unset;
+    left: -15px;
+    transform: rotate(180deg);
+}
+.page-title-content ul li a i {
+    position: absolute;
+    left: -18px;
+    top: 4px;
+    transform: rotate(180deg);
+}
+.page-title-content ul li {
+    padding: 0 15px;
+}
+.widget-search form button {
+    position: absolute;
+    left: 14px;
+    right: unset;
+}
+.recent-case ul li a i {
+    float: right;
+    transform: rotate(180deg);
+    position: relative;
+    top: 5px;
+    margin-left: 10px;
+}
+.blog-details-area .comments-area .comment-author .avatar {
+    right: -65px;
+    left: unset;
+}
+.blog-details-area .comments-area .comment-body {
+    padding-right: 65px;
+    padding-left: unset;
+}
+.blog-details-area .sheare-link ul li.share {
+    margin-left: 530px;
+    margin-right: 0;
+}
+.blog-details-area .post-navigation .navigation-links .nav-next{
+    text-align: left;
+}
+.nav-item.contact-number i {
+    margin-left: 5px;
+}
+.testimonial-area  {
+    overflow: hidden;
+}
+.testimonial-area .testimonial-shape {
+    right: 0;
+}
+.coming-soon-content #timer div::before {
+	left: -45px;
+	right: unset;
+}
+.coming-soon-content .newsletter-form button {
+	left: 0;
+	right: unset;
+}
+.coming-soon-content .newsletter-form .input-newsletter {
+	padding-right: 15px;
+	padding-left: unset;
+}
+.single-blog .blig-content ul li {
+    margin-left: 20px;
+    margin-right: 0;
+}
+.single-blog .blig-content ul li:last-child {
+    margin-left: 0;
+}
+.single-blog .blig-content ul li i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.slideInLeft {
+    animation-name: slideInRight;
+}
+.slideInRight {
+    animation-name: slideInLeft;
+}
+.single-practice-gallery .practice-gallery-text h3 {
+    padding-right: 30px;
+    padding-left: 0;
+}
+.coming-soon-content #timer div:first-child {
+    margin-right: 0;
+    margin-left: 35px;
+}
+.coming-soon-content #timer div:last-child {
+    margin-left: 0;
+    margin-right: 35px;
+}
+.faq-accordion .accordion .accordion-item .accordion-title {
+    padding: 12px 30px 12px 60px;
+}
+.faq-accordion .accordion .accordion-item .accordion-title i {
+    left: 30px;
+    right: auto;
+}
+.practices-details .single-practices ul {
+    margin-right: 20px;
+    margin-left: 0;
+}
+.practices-details .single-practices ul li::before {
+    right: -20px;
+    left: auto;
+}
+.blog-details-area .comments-area .children {
+    margin-right: 60px;
+    margin-left: 0;
+}
+.practice-area .right-shape {
+    left: 100px !important;
+    right: auto !important;
+}
+
+/** Responsive CSS **/
+@media only screen and (max-width: 767px) {
+    .single-practice {
+        padding-left: 0 !important;
+    }
+    .single-practice {
+        padding-right: 80px !important;
+    }
+    .single-widget.single-widgets {
+        margin-right: 0;
+    }
+    .single-widget.single-widgetss {
+        margin-right: 0;
+    }
+    .page-title-content ul li a i {
+        left: -13px;
+        top: 5px;
+    }
+    .blog-details-area .sheare-link ul li.share {
+        margin-left: 0 !important;
+    }
+    .blog-details-area .comments-area .comment-body {
+        padding-right: 0 !important;
+    }
+    .blog-details-area .comments-area .comment-author .avatar {
+        right: 0;
+        left: unset;
+        position: unset;
+        margin-bottom: 10px;
+    }
+    .blog-details-area .comments-area .comment-author .fn{
+        display: block;
+    }
+    .blog-details-area .comments-area .children {
+        margin-left: 0 !important;
+    }
+    .about-area .about-content-wrap {
+        margin-left: 0 !important;
+    }
+    .about-area .about-img .success-rate {
+        right: 0 !important;
+    }
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    .offset-lg-0 {
+        margin-right: auto;
+    }
+    .single-widget.single-widgets {
+        margin-right: 0;
+    }
+    .single-widget.single-widgetss {
+        margin-right: 0;
+    }
+    .single-practice {
+        padding-left: 0 !important;
+    }
+    .page-title-content ul li a i {
+        left: -13px;
+        top: 5px;
+    }
+    .blog-details-area .sheare-link ul li.share {
+        margin-left: 490px !important;
+        margin-right: 0 !important;
+    }
+    .about-area .about-img .success-rate {
+        right: 0 !important;
+    }
+}
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+    .single-practice {
+        padding-left: unset !important;
+    }
+    .single-widget.single-widgetss {
+        margin-left: 0 !important;
+    }
+    .single-widget.single-widgets {
+        margin-left: 0 !important;
+        margin-right: 0;
+    }
+    .blog-details-area .sheare-link ul li.share {
+        margin-left: 410px !important;
+        margin-right: 0 !important;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .mean-container a.meanmenu-reveal {
+        left: 0 !important;
+        right: auto !important;
+        padding: 15px 15px 0 15px !important;
+    }
+    .mobile-nav .logo {
+        right: 15px;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        text-align: left;
+        left: 0;
+        right: auto;
+
+    }
+    .mean-container .mean-nav ul li a {
+        text-align: right;
+    }
+    .mean-container .mean-nav ul li a {
+        width: 93%;
+    }
+    .lovells-slider-2 .slider-text {
+        text-align: right !important;
+    }
+}

@@ -1,0 +1,84 @@
+$mainColor: #b69d74;
+
+.bg-main{
+    background-color: $mainColor;
+}
+.text-main{
+    color: $mainColor;
+}
+.h-100vh{
+    height: 100vh;
+}
+.practice-area{
+    background-color: #fff;
+}
+.single-contact-info{
+    min-height: 250px;
+}
+.lovells-nav-style-one .navbar-brand img{
+    height: 80px;
+}
+@media only screen and (max-width: 991px){
+    .mobile-nav .logo {
+        width: 60px !important;
+    }
+}
+@media (max-width: 1050px){
+    .navbar-expand-xl {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-flow: row nowrap;
+        flex-flow: row nowrap;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        .navbar-collapse {
+            display: -webkit-box!important;
+            display: -ms-flexbox!important;
+            display: flex!important;
+            -ms-flex-preferred-size: auto;
+            flex-basis: auto;
+        }
+    }
+}
+.footer-top-area{
+    padding-top: 100px;
+}
+.accordion {
+    .collapse{
+        &.show{
+            .card-header{
+                background-color: $mainColor;
+            }
+        }
+    }
+    .card{
+        border: none;
+    }
+    .card-header{
+        background-color: #fff;
+        border-bottom: 1px solid $mainColor;
+        padding: 0.75rem 0;
+        .btn{
+            padding: .375rem 0;
+        }
+    }
+    .btn-link{
+        color: #000;
+        &:hover {
+            color: $mainColor;
+            text-decoration: none !important;
+            background-color: transparent;
+            border-color: transparent;
+        }
+    }
+}
+.partners {
+    .single-box{
+        min-height: 520px !important;
+    }
+}
+input[type=checkbox], input[type=radio]{
+    height: 25px !important;
+    width: 25px;
+}
