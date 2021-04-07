@@ -44,6 +44,9 @@ $mainColor: #b69d74;
 .footer-top-area{
     padding-top: 100px;
 }
+.page-title-area::before {
+    background-color: rgba(18, 18, 50,0.6);
+}
 .accordion {
     .collapse{
         &.show{

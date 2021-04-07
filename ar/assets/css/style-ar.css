@@ -64,7 +64,9 @@
 .accordion .btn-link {
   color: #000;
 }
-
+.page-title-area::before{
+  background-color: rgba(18, 18, 50,0.6);
+}
 .accordion .btn-link:hover {
   color: #b69d74;
   text-decoration: none !important;

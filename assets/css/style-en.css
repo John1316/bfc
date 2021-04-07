@@ -43,6 +43,10 @@
   padding-top: 100px;
 }
 
+.page-title-area::before {
+  background-color: rgba(18, 18, 50, 0.6);
+}
+
 .accordion .collapse.show .card-header {
   background-color: #b69d74;
 }
